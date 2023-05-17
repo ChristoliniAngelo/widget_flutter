@@ -30,8 +30,9 @@ void main() {
         ),
       ),
       appBar: AppBar(
-        title: const Text(
-          "Aplikasi Widget",
+        title: const Center(
+          child: Text(
+            "Aplikasi Widget",
         ),
       ),
     ),
